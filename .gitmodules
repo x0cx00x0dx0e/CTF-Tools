@@ -1,5 +1,7 @@
 [submodule "VulnScan/vulscan"]
 	path = VulnScan/vulscan
 	url = https://github.com/scipag/vulscan
+
+[submodule "VulnScan/getsploit"]
 	path = VulnScan/getsploit
 	url = https://github.com/vulnersCom/getsploit
